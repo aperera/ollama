@@ -1,2 +1,2 @@
-langchain==0.0.259
+langchain==0.3.24
 bs4==0.0.1
